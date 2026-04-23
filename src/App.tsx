@@ -113,6 +113,9 @@ useEffect(() => {
 
       <footer>
         <p>Open the browser console to see abort logs in real time</p>
+        <p style={{ marginTop: "8px", fontSize: "13px", opacity: 0.6 }}>
+          Made by <a href="https://github.com/bishojbk" target="_blank" rel="noopener noreferrer" style={{ color: "inherit", textDecoration: "underline" }}>EJR</a>
+        </p>
       </footer>
     </div>
   );
